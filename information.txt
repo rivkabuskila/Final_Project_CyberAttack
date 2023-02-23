@@ -1,0 +1,56 @@
+date: Thu Feb 23 20:43:12 GMT 2023
+underlying_board: goldfish_x86_64
+system_bootloader_version_number: unknown
+consumer_visible_brand: google
+industrial_design: emu64x
+build_ID_string: sdk_gphone64_x86_64-userdebug 13 TE1A.220922.012 9302419 dev-keys
+uniquely_identifies_this_build: google/sdk_gphone64_x86_64/emu64x:13/TE1A.220922.012/9302419:userdebug/dev-keys
+HARDWARE: ranchu
+HOST: abfarm-release-2004-0110
+Base: 1
+device: 1
+device id: f632636903477cee
+ID: TE1A.220922.012
+MANUFACTURER: Google
+MODEL: sdk_gphone64_x86_64
+PRODUCT: sdk_gphone64_x86_64
+RADIO: unknown
+SOC_MANUFACTURER: AOSP
+TAGS: dev-keys
+TYPE: userdebug
+USER: android-build
+input method : com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+CODENAME: REL
+INCREMENTAL: 9302419
+PREVIEW_SDK_INT: 0
+RELEASE: 13
+RELEASE_OR_CODENAME: 13
+SDK_INT: 33
+SECURITY_PATCH: 2022-11-05
+ENABLED_INPUT_METHODS : com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME:com.google.android.tts/com.google.android.apps.speech.tts.googletts.settings.asr.voiceime.VoiceInputMethodService
+INSTALL_NON_MARKET_APPS : 1
+MEDIA_MOUNTED: mounted
+BLUETOOTH_UID: 1002
+PHONE_UID: 1001
+ROOT_UID: 0
+SHELL_UID: 2000
+DISALLOW_CONFIG_LOCALE: no_config_locale
+user.name: root
+LOCATION_MODE : 3
+java.vm.name: Dalvik
+os.version:5.15.41-android13-8-00055-g4f5025129fe8-ab8949913
+language:English (United States)
+reqGlEsVersion: 131072
+reqInputFeatures: 3
+reqTouchScreen: 3
+Available RAM: 11.052932739257812
+total RAM: 11.920242309570312
+AvailableSpace: 5060149248
+TotalSpace: 6228115456
+Curent Frequency of Core 0 is:3113027
+min Frequency of Core 0 is:1
+max Frequency of Core 0 is:2
+time_in_state Frequency of Core 0 is:1 7022897
+Bluetooth is enabled: true
+charging: false
+time until the battery is fully charged: -1
